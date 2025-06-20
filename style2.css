@@ -56,6 +56,11 @@
     border: 1px solid #d7c5a8;
     border-radius: 10px;
     box-shadow: 2px 2px 6px rgba(100, 80, 50, 0.1);
+  
+  }
+
+  img {
+    width: 500px
   }
   
   footer {
